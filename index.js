@@ -99,6 +99,3 @@ function show(data) {
     });
 }
 
-
-// Escribiendo la url en el navegador conseguimos el token, pegamos precedido de pageToken=:
-//https://www.googleapis.com/youtube/v3/search/?part=snippet&key=AIzaSyCPGg5IK6kf3Wy567YFtogMuwVnYbJLy5I&q=&maxResults=20&pageToken=CBQQAA
